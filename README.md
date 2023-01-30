@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AYUSH AGARWAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
+<img align="right" alt="coding" width="450" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-git890&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-git890" /> </p>
 
